@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @v-a-run
-- 👀 I’m interested in Web Development, Full Stack Development and Software Development roles.
-- 🌱 I’m currently learning React.js, Data Structures & Algorithms.
+<!-- - 👀 I’m interested in Web Development, Full Stack Development and Software Development roles.
+- 🌱 I’m currently learning React.js, Data Structures & Algorithms. -->
 - 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/varunk26/ "Varun's LinkedIn Profile")
 
 <!---
